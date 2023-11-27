@@ -1,0 +1,37 @@
+@media screen and (max-width:600px){
+    #block{
+        display: block;
+        width: 80%;
+    }
+    #displayResult{
+        width: 300px;
+         overflow: hidden;
+    }
+    #displayResult2{
+        width: 300px;
+         overflow: hidden;
+    }
+    #displayResult3{
+        width: 300px;
+         overflow: hidden;
+    }
+    #displayResult4{
+        width: 300px;
+         overflow: hidden;
+    }
+    #displayResult5{
+        width: 300px;
+         overflow: hidden;
+    }
+    #displayResult6{
+        width: 300px;
+         overflow: hidden;
+    }
+    #displayResult7{
+        width: 300px;
+         overflow: hidden;
+    }
+}
+body{
+    overflow-x: hidden;
+}
