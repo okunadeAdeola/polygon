@@ -35,3 +35,9 @@
 body{
     overflow-x: hidden;
 }
+#block{
+    display: block;
+}
+#button{
+    width: 35%;
+}
